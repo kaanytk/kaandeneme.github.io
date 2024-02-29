@@ -1,2 +1,6 @@
-# kaandeneme.github.io
-Deneme for page devop
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
